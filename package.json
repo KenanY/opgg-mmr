@@ -1,6 +1,6 @@
 {
   "name": "opgg-mmr",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Get op.gg's MMR for a League of Legends player",
   "keywords": [
     "league of legends"
