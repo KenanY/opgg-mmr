@@ -1,6 +1,7 @@
 # opgg-mmr
 
 [![Build Status](https://img.shields.io/travis/KenanY/opgg-mmr.svg)](https://travis-ci.org/KenanY/opgg-mmr)
+[![Dependency Status](https://img.shields.io/gemnasium/KenanY/opgg-mmr.svg)](https://gemnasium.com/KenanY/opgg-mmr)
 
 Get [op.gg](http://op.gg/)'s matchmaking rating (MMR) for a League of Legends
 player.
